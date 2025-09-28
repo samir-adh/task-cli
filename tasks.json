@@ -1,0 +1,49 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "name": "Set up project repository",
+            "status": "done"
+        },
+        {
+            "id": 2,
+            "name": "Implement user authentication",
+            "status": "in-progress"
+        },
+        {
+            "id": 3,
+            "name": "Design database schema",
+            "status": "done"
+        },
+        {
+            "id": 4,
+            "name": "Create API endpoints",
+            "status": "in-progress"
+        },
+        {
+            "id": 5,
+            "name": "Write unit tests",
+            "status": "todo"
+        },
+        {
+            "id": 6,
+            "name": "Deploy to production",
+            "status": "todo"
+        },
+        {
+            "id": 7,
+            "name": "Update documentation",
+            "status": "done"
+        },
+        {
+            "id": 8,
+            "name": "Code review and refactoring",
+            "status": "todo"
+        },
+        {
+            "id": 10,
+            "name": "Stop working",
+            "status": "in-progress"
+        }
+    ]
+}
