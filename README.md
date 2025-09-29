@@ -6,9 +6,9 @@ Start by cloning this repository :
 
 ```bash
 # with ssh
-git clone git@github.com:samir-adh/leetcode.git
+git clone git@github.com:samir-adh/task-cli.git
 # with http
-git clone https://github.com/samir-adh/leetcode.git
+git clone https://github.com/samir-adh/task-cli.git
 ```
 
 
