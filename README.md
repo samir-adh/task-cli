@@ -1,5 +1,7 @@
 # task-cli : A small todo list app in the terminal
 
+Solution to [task tracker](https://roadmap.sh/projects/task-tracker) from [roadmap.sh](https://roadmap.sh/backend/projects)
+
 ## Installation
 
 Start by cloning this repository :
@@ -62,4 +64,5 @@ Or you can filter them by status this way :
 task-cli list <status>
 ```
 The status can be : 'todo', 'in-progress' or 'done'
+
 
